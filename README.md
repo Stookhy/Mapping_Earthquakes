@@ -3,7 +3,6 @@
 ## Overview of Analysis
 
   1.  Create a branch from the main branch on GitHub.
-  2.  Add, commit, and push data to a GitHub branch.
   3.  Merge a branch with the main branch on GitHub.
   4.  Retrieve data from a GeoJSON file.
   5.  Make API requests to a server to host geographical maps.
@@ -13,3 +12,8 @@
   9.  Render maps on a local serve
   
 ## Purpose
+
+   Create an interactive map using data tools to show the differences in magnitude across 7 days. Using the data in relation to the tectonic plate's location on earth, and visualizing earthquakes with a magnitude greater than 4.5. 
+  
+
+  

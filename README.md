@@ -17,7 +17,7 @@
   
 ![This is an image](https://github.com/Stookhy/Mapping_Earthquakes/blob/main/Mapping_Earthquakes.png?raw=true)
 
-![This is an image]
+![This is an image](https://github.com/Stookhy/Mapping_Earthquakes/blob/main/Map_Style.png?raw=true)
 
 
   

@@ -13,7 +13,7 @@
   
 ## Purpose
 
-   Create an interactive map using data tools to show the differences in magnitude across 7 days. Using the data in relation to the tectonic plate's location on earth, and visualizing earthquakes with a magnitude greater than 4.5. 
+   Create an interactive map using data tools to show the differences in earthquake magnitude across 7 days. Using the data in relation to the tectonic plate's location on earth, and visualizing earthquakes with a magnitude greater than 4.5. 
   
 ![This is an image](https://github.com/Stookhy/Mapping_Earthquakes/blob/main/Mapping_Earthquakes.png?raw=true)
 

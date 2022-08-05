@@ -15,5 +15,5 @@
 
    Create an interactive map using data tools to show the differences in magnitude across 7 days. Using the data in relation to the tectonic plate's location on earth, and visualizing earthquakes with a magnitude greater than 4.5. 
   
-
+[This is a Image!](https://github.com/Stookhy/Mapping_Earthquakes/blob/main/Mapping_Earthquakes.png?raw=true)
   
